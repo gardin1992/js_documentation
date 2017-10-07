@@ -1,0 +1,11 @@
+{
+  "name": "docapp",
+  "version": "1.0.0",
+  "description": "Teste documentation js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Gardin <gardin1992@gmail.com>",
+  "license": "MIT"
+}
